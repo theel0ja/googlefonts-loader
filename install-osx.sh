@@ -1,0 +1,1 @@
+mv fonts/ ~/Library/Fonts/google
