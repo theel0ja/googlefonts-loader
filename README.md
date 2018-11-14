@@ -1,5 +1,7 @@
 # googlefonts-loader
-Copy all Google Fonts to a folder
+Copy all Google Fonts to a folder.
+
+If you want to block requests to Google Fonts on your browser, add [Block Google Fonts by Crapblock](https://crapblock.theel0ja.info/) to your browser.
 
 ## Usage on macOS
 
