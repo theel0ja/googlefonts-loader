@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Install all fonts from Google Fonts
 #
 # (C) Elias Ojala <elias@eliasojala.me>
